@@ -1,16 +1,30 @@
-### Hi there 👋
+## oh, hi
 
-<!--
-**hlecco/hlecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` txt
+welcome to my profile! make yourself at home, and don't mind the mess
+```
+### ok but who are you?
 
-Here are some ideas to get you started:
+``` txt
+a mathematics undergraduate interested in facing challenging issues around data
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` txt
+also i'm very enthusiastic about free software in general, open-source and fair by extension.
+```
+
+### some things i like
+
+``` Python
+# interested
+in 'python'
+```
+``` Dockerfile
+ADD docker ./
+```
+``` Rust
+.expect("Rust")
+```
+``` txt
+pardon the puns, feel free to check my stuff :)
+```
